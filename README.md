@@ -190,3 +190,18 @@
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=50&animation=twinkling&fontAlignY=65&desc=Let's%20code%20the%20future%20together%20%F0%9F%9A%80&descAlignY=80&descSize=16" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 **"Code is poetry, and every developer is a poet."** 
+  
+**Made with ❤️ by Quincy Dev**
+  
+*⭐ Star this repository if you found it helpful!*
+  
+</div>
