@@ -81,3 +81,19 @@
 
 </div>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quincy-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincy-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quincy-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quincy-dev&custom_title=Quincy's%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
