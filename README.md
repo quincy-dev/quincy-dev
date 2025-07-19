@@ -97,3 +97,65 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quincy-dev&custom_title=Quincy's%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 **DALLE Creator Image 2.0**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quincy-dev&repo=dalle-creator-image&theme=tokyonight&hide_border=true)](https://github.com/quincy-dev/dalle-creator-image)
+
+🚀 **AI-powered image generation tool**
+- ⚡ Modern React interface
+- 🎭 Advanced AI integration
+- 📱 Responsive design
+- 🔥 Real-time generation
+
+</td>
+<td width="50%">
+
+### 🎮 **Game Susun Kata v1.2**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quincy-dev&repo=game-susun-kata&theme=tokyonight&hide_border=true)](https://github.com/quincy-dev/game-susun-kata)
+
+🎯 **Interactive word puzzle game**
+- 🌟 Engaging gameplay mechanics
+- 📊 Progress tracking system
+- 🎨 Beautiful UI/UX design
+- ⚡ High performance
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 **Home v1.1 Template**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quincy-dev&repo=home-template&theme=tokyonight&hide_border=true)](https://github.com/quincy-dev/home-template)
+
+💫 **Modern web template**
+- 📱 Fully responsive design
+- ⚡ Lightning-fast performance
+- 🎨 Customizable components
+- 🔧 Developer-friendly
+
+</td>
+<td width="50%">
+
+### 📱 **TikTok Downloader v1.1**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quincy-dev&repo=tiktok-downloader&theme=tokyonight&hide_border=true)](https://github.com/quincy-dev/tiktok-downloader)
+
+⬇️ **Reliable content downloader**
+- 🚀 Fast download speeds
+- 🔒 Secure processing
+- 📱 Cross-platform support
+- 🛡️ Privacy-focused
+
+</td>
+</tr>
+</table>
+
+</div>
+
