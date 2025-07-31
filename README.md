@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Stylish Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e153a,38bdae,70a5fd,bc6ff1&height=270&section=header&text=QUINCY+DEV&fontSize=85&animation=twinkling&fontAlignY=33&desc=🚀+Invent+.+Inspire+.+Impact&descAlignY=45&descSize=27" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=243391,38bdae,70a5fd,bc6ff1&height=270&section=header&text=QUINCY+DEV&fontSize=85&animation=twinkling&fontAlignY=33&desc=🚀+Invent+.+Inspire+.+Impact&descAlignY=45&descSize=27" />
 </div>
 
 ## 🧬 About Me
