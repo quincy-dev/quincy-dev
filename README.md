@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=280&section=header&text=AA%20Studios&fontSize=70&fontColor=E0F2FE&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20AI%20%E2%80%A2%20UI%2FUX&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,40:2A2160,75:8F5FA8,100:F5A9C8&height=280&section=header&text=Quincy&fontSize=88&fontColor=FDE8F0&fontAlignY=40&desc=%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%BC%20%C2%B7%20%E6%8A%80%E8%A1%93%20%C3%97%20%E5%89%B5%E9%80%A0%20%C3%97%20%E3%82%A2%E3%83%8B%E3%83%A1&descAlignY=68&descSize=20&animation=fadeIn" width="100%" alt="Quincy header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=F5A9C8&center=true&vCenter=true&width=760&height=42&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6+%E2%9C%BF+I'm+Quincy;%E3%82%B3%E3%83%BC%E3%83%89+%C3%97+%E3%82%A2%E3%83%8B%E3%83%A1+%C3%97+3D+%C3%97+%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3;%E6%8A%80%E8%A1%93%E3%81%A8%E5%89%B5%E9%80%A0%E6%80%A7%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%E3%81%AB;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD+%F0%9F%8C%B8;Understand.+Build.+Refine." alt="Typing animation" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Building+Beautiful+Software+%F0%9F%9A%80;Creating+Games+with+Unity+%F0%9F%8E%AE;Developing+AI+Solutions+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%93%9A;Welcome+to+My+GitHub+%E2%9C%A8;Dream+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
-</a>
+<a href="https://github.com/quincy-dev"><img src="https://img.shields.io/badge/GitHub-quincy--dev-0B1020?style=for-the-badge&logo=github&logoColor=F5A9C8&labelColor=0B1020&color=2A2160" alt="GitHub" /></a>
+<a href="https://zetalyn.my.id"><img src="https://img.shields.io/badge/Zetalyn-Creative_Space-F5A9C8?style=for-the-badge&logo=googlechrome&logoColor=0B1020&labelColor=2A2160" alt="Zetalyn" /></a>
+<img src="https://img.shields.io/github/followers/quincy-dev?style=for-the-badge&logo=github&logoColor=F5A9C8&label=FOLLOWERS&labelColor=0B1020&color=2A2160" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=quincy-dev&style=for-the-badge&color=2A2160&labelColor=0B1020&label=VISITORS" alt="Visitors" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/username?label=Followers&style=for-the-badge&color=0891B2&labelColor=0F172A"/>
-<img src="https://img.shields.io/github/stars/username?label=Stars&style=for-the-badge&color=0EA5E9&labelColor=0F172A"/>
-<img src="https://komarev.com/ghpvc/?username=username&label=Profile+Views&style=for-the-badge&color=6366F1&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=A855F7&labelColor=0F172A&style=for-the-badge&label=Visitors&query=value&url=https://api.countapi.xyz/hit/username/visits"/>
+🏮 &nbsp; ⛩️ &nbsp; 🌸 &nbsp; **「技術と創造性、その交差点に。」** &nbsp; 🌸 &nbsp; ⛩️ &nbsp; 🏮<br/>
+<sub>Where technology meets creativity.</sub>
 
 </div>
 
@@ -21,280 +22,39 @@
 
 <div align="center">
 
-### 「 formerly known as **Quincy Dev** 」
-
-*A design studio for code, games, and ideas — based in* 🇮🇩 *Indonesia, dreaming in* 🇯🇵 *Japan.*
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
 
 </div>
 
-<br/>
+## 🎴 自己紹介 &nbsp;·&nbsp; Profile
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🪞 About Me
-
-<table align="center">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="62%" valign="top">
+
+こんにちは！ Hi, I'm **Quincy** (クインシー), a software engineering student from Indonesia 🇮🇩
+
+I like understanding how things work behind the screen, then making them feel good on the surface. Code is one half of my world. The other half is **anime-inspired visuals, 3D, MMD, character design, motion, and video editing**.
+
+I'm drawn to the place where engineering meets creativity: software that works *and* feels designed, creative work that's expressive *and* built with a technical mindset.
+
+I learn best by **making things**, breaking them, and making them better. Japanese language and culture are a big part of that journey, from anime and Vocaloid to the writing system itself.
+
+</td>
+<td width="38%" valign="top">
 
 ```yaml
-brand:
-  name: "AA Studios"
-  formerly: "Quincy Dev"
-
-profile:
-  role: "Software Engineering Student"
-  country: "Indonesia 🇮🇩"
-  dream_country: "Japan 🇯🇵"
-  dream_career: "Professional Software Engineer"
-
-focus:
-  - Full Stack Web Development
-  - Unity Game Development
-  - Artificial Intelligence
-  - UI/UX Design
-  - Blender & 3D Art
-  - VRM Character Design
-  - Open Source
-
-currently_learning:
-  - Laravel · Next.js · React
-  - TypeScript · Node.js
-  - Unity · C#
-  - Blender
-  - PostgreSQL · Docker
-  - Cloud Deployment
-  - AI Engineering
-
-currently_working_on: "A VRM-based anime character + Unity mini-game"
-passion: "Turning ideas into elegant, working software"
-fun_fact: "Codes best at 2AM with lo-fi anime OSTs playing"
+名前: Quincy (クインシー)
+肩書き: Software Eng. Student
+所在地: Indonesia 🇮🇩
+好き:
+  - アニメ
+  - ボカロ / J-POP
+  - 3D / MMD / VRM
+  - モーション編集
+勉強中: 日本語
+座右の銘: Understand → Build → Refine
 ```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:06B6D4,100:6366F1&height=200&section=header&text=%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-<br/>
-
-> *"Design is intelligence made visible.  
-> Code is intention made real."*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🧩 Tech Stack
-
-<div align="center">
-
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,php,csharp,python,cpp,html,css&theme=dark"/>
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,redux,vite&theme=dark"/>
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi&theme=dark"/>
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark"/>
-
-<br/><br/>
-
-**Game Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=unity,csharp,blender&theme=dark"/>
-
-<br/><br/>
-
-**AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,py&theme=dark"/>
-<img src="https://img.shields.io/badge/OpenAI-06B6D4?style=for-the-badge&logo=openai&logoColor=white&labelColor=0F172A"/>
-
-<br/><br/>
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,vercel,cloudflare,nginx&theme=dark"/>
-
-<br/><br/>
-
-**Tools · Editors · Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,postman,idea&theme=dark"/>
-
-<br/><br/>
-
-**Operating Systems**
-<br/>
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=dark"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=quincy-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=6366F1&text_color=E2E8F0&ring_color=0EA5E9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=quincy-dev&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincy-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0&langs_count=10" height="185"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quincy-dev&theme=tokyo-night&bg_color=0F172A&color=06B6D4&line=6366F1&point=E2E8F0&hide_border=true" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=quincy-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🚀 Current Projects
-
-<div align="center">
-
-| Project | Category | Status | Stack |
-|:--|:--:|:--:|:--|
-| 🏗️ **Portfolio Website** | Web | 🟢 Active | Next.js · Tailwind · TypeScript |
-| 🌾 **Laravel SaaS Starter** | Web | 🟡 In Progress | Laravel · PostgreSQL · Docker |
-| 🎮 **Unity Adventure Game** | Game Dev | 🟢 Active | Unity · C# |
-| 🧠 **AI Study Companion** | AI | 🟡 In Progress | Python · OpenAI API |
-| 👘 **Original VRM Character** | 3D / Design | 🟢 Active | Blender · VRoid · VRM |
-| 🌐 **Open Source Contributions** | OSS | 🔵 Ongoing | Various |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## ⚙️ Featured Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Node.js-6366F1?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F172A"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🗺️ Learning Roadmap
-
-<details open>
-<summary><b>📍 Current</b></summary>
-<br/>
-
-- [x] Laravel — building real backend APIs
-- [x] Next.js + TypeScript — modern frontend architecture
-- [x] Unity + C# — core game mechanics
-- [ ] PostgreSQL — advanced querying & indexing
-
-</details>
-
-<details>
-<summary><b>➡️ Next</b></summary>
-<br/>
-
-- [ ] Docker & container orchestration
-- [ ] Cloud deployment (AWS / GCP)
-- [ ] AI Engineering fundamentals
-- [ ] Advanced Blender character rigging
-
-</details>
-
-<details>
-<summary><b>🔮 Future</b></summary>
-<br/>
-
-- [ ] System design at scale
-- [ ] Procedural generation in Unity
-- [ ] Computer vision pipelines
-- [ ] Publish an original indie game
-
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🎯 Goals
-
-<table align="center">
-<tr>
-<th>🗓️ 2026</th>
-<th>🗓️ 2027</th>
-</tr>
-<tr>
-<td valign="top">
-
-- Ship a full-stack Laravel + Next.js SaaS
-- Release a Unity game demo
-- Deepen AI engineering skills
-- Publish original VRM character
-
-</td>
-<td valign="top">
-
-- Land a Software Engineering role
-- Contribute to major open-source projects
-- Build an indie game studio side-project
-- Move toward working in Japan 🇯🇵
 
 </td>
 </tr>
@@ -302,277 +62,358 @@ fun_fact: "Codes best at 2AM with lo-fi anime OSTs playing"
 
 <div align="center">
 
-`Career` → Professional Software Engineer  
-`Open Source` → 20+ meaningful contributions  
-`Game Dev` → Ship 1 complete indie title  
-`AI` → Build & deploy 3 production AI tools
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## ⏳ Timeline
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','primaryBorderColor':'#06B6D4','lineColor':'#6366F1','secondaryColor':'#1E293B','tertiaryColor':'#0F172A'}}}%%
-timeline
-    title From Student to Software Engineer
-    section Foundations
-        Student : Started programming : Explored web basics
-    section Growth
-        Learning : Laravel, React, Next.js : Unity & C# : AI fundamentals
-    section Momentum
-        Building : Full-stack apps : Unity prototypes : VRM & Blender projects
-    section Horizon
-        Future Engineer : Professional role : Open source impact : Working toward Japan
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🧭 Coding Philosophy
+## 🗡️ キャラクターシート &nbsp;·&nbsp; Character Sheet
 
 <div align="center">
 
-> *"Simplicity is the ultimate sophistication.  
-> Every line of code should earn its place."*
-
-**— AA Studios**
+| 項目 | Detail |
+| :-- | :-- |
+| 🎭 **職業 / Class** | Creative Technologist (Software Engineering Student) |
+| 🌸 **属性 / Element** | Sakura × Code × Motion |
+| ⚔️ **武器 / Weapons** | HTML · CSS · JavaScript · Python · C++ · Java |
+| 🎮 **魔法 / Magic** | Unity · Blender · MMD · VRM |
+| 📖 **修行中 / In Training** | 日本語 (Japanese) |
+| 🧭 **信条 / Creed** | 小さく始めて、少しずつ良くする |
+| 🐾 **相棒 / Companion** | Zetalyn (original character) |
 
 </div>
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
+<img src="https://img.shields.io/badge/🌸_CODE-HTML_CSS_JS_PY_C++_JAVA-2A2160?style=for-the-badge&labelColor=0B1020" alt="code" />
+<img src="https://img.shields.io/badge/🎮_GAME-UNITY-2A2160?style=for-the-badge&labelColor=0B1020" alt="game" />
+<img src="https://img.shields.io/badge/🎬_3D-BLENDER_MMD_VRM-8F5FA8?style=for-the-badge&labelColor=0B1020" alt="3d" />
 
-<br/>
+</div>
 
-## 🔄 Development Workflow
+<div align="center">
+
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
+
+</div>
+
+## 🛠️ 装備 &nbsp;·&nbsp; Tech Arsenal
+
+Languages and tools I've learned and worked with. This is my learning path, not a claim of mastery over every item.
+
+<div align="center">
+
+**⌨️ &nbsp;言語 · Languages & Web Foundations**<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java&theme=dark" alt="HTML, CSS, JavaScript, Python, C++, Java" />
+
+<br/><br/>
+
+**🎮 &nbsp;ゲーム & 3D · Game Dev & 3D Creation**<br/><br/>
+<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" alt="Unity, Blender" />
+<img src="https://img.shields.io/badge/MMD-3D_Animation-F5A9C8?style=for-the-badge&labelColor=2A2160" alt="MMD" />
+<img src="https://img.shields.io/badge/VRM-Character_Workflow-B9A7F5?style=for-the-badge&labelColor=2A2160" alt="VRM" />
+
+</div>
+
+<div align="center">
+
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
+
+</div>
+
+## ⚡ 何をしているか &nbsp;·&nbsp; What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 &nbsp;コード · Code & Interfaces
+
+- Building small web projects and experiments
+- Practicing across multiple languages
+- Exploring game development with Unity
+- Crafting clean, user-focused interfaces
+- Playing with APIs, automation, and AI features
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 &nbsp;創作 · Creative & Visual
+
+- Designing intentional, modern UI with an anime-inspired eye
+- Creating and animating 3D characters
+- MMD projects and anime-style visuals
+- Exploring VRM character workflows
+- Video editing and motion graphics
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
+
+</div>
+
+## 🚀 作品 &nbsp;·&nbsp; Works & Experiments
+
+Some are practical software projects, others are creative experiments. They keep evolving.
+
+| | 作品 · Project | 説明 · What it is |
+| :-: | --- | --- |
+| 🛫 | **AeroLink** | Laravel-based freelance web platform with role-based access and database-backed workflows. |
+| 📜 | **Certigen** | Web app experiment built with Next.js, Prisma, and a hosted database. |
+| 🎵 | **QueenMusic** | Music web project exploring lyrics data and synchronized LRC lyrics. |
+| 📥 | **SaveIt / FastGrabber** | Experiments around convenient media and link workflows. |
+| 🤖 | **Line Bot** | Serverless LINE bot with an AI-powered auto-response workflow. |
+| 🌙 | **Zetalyn Creative Projects** | Anime-inspired character, MMD, 3D, and video experiments around my original character, Zetalyn. |
+
+<div align="center">
+
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
+
+</div>
+
+## 🌙 主役 &nbsp;·&nbsp; Spotlight: Zetalyn
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+<!-- Tambahkan art Zetalyn kamu di sini, contoh:
+<img src="https://raw.githubusercontent.com/quincy-dev/quincy-dev/main/assets/zetalyn.png" width="220" alt="Zetalyn" />
+-->
+
+# 🌙
+
+**Zetalyn**<br/>
+<sub>ゼタリン · Original Character</sub>
+
+</td>
+<td width="65%" valign="top">
+
+Zetalyn is the original character concept at the center of my creative experiments. She's the muse behind my anime-inspired visuals, and the character I bring into **MMD, VRM, 3D, and video projects**.
+
+Every experiment is a chance to learn something new: modeling, rigging, animation, lighting, editing, and the technical glue that connects them.
+
+<a href="https://zetalyn.my.id"><img src="https://img.shields.io/badge/Visit-Zetalyn_Creative_Space-F5A9C8?style=for-the-badge&logo=googlechrome&logoColor=0B1020&labelColor=2A2160" alt="Visit Zetalyn" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
+
+</div>
+
+## 🎬 制作の流れ &nbsp;·&nbsp; Creative Pipeline
+
+How an idea becomes something you can see and play with:
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','primaryBorderColor':'#06B6D4','lineColor':'#6366F1'}}}%%
 flowchart LR
-    A[💡 Idea] --> B[🎨 Design]
-    B --> C[⚙️ Develop]
-    C --> D[🧪 Test]
-    D --> E[🚀 Deploy]
-    E --> F[📈 Improve]
-    F --> A
-
-    style A fill:#0F172A,stroke:#06B6D4,color:#E2E8F0
-    style B fill:#0F172A,stroke:#6366F1,color:#E2E8F0
-    style C fill:#0F172A,stroke:#0EA5E9,color:#E2E8F0
-    style D fill:#0F172A,stroke:#A855F7,color:#E2E8F0
-    style E fill:#0F172A,stroke:#06B6D4,color:#E2E8F0
-    style F fill:#0F172A,stroke:#6366F1,color:#E2E8F0
+    A["💡 アイデア<br/>Idea"] --> B["🎨 デザイン<br/>Design"]
+    B --> C["🧍 モデル<br/>Model · Blender / VRM"]
+    C --> D["💃 アニメ<br/>Animate · MMD / Unity"]
+    D --> E["🎞️ 編集<br/>Edit & Polish"]
+    E --> F["🌸 公開<br/>Share"]
 ```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🏛️ Project Architecture
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','primaryBorderColor':'#06B6D4','lineColor':'#6366F1'}}}%%
-graph TD
-    Client[🖥️ Client — Next.js / React] --> API[🔌 API Layer — Laravel / Node.js]
-    API --> Auth[🔐 Auth Service]
-    API --> DB[(🗄️ PostgreSQL)]
-    API --> Cache[(⚡ Redis Cache)]
-    API --> AI[🤖 AI Service — OpenAI / Python]
-    API --> Storage[☁️ Cloud Storage]
-    Client --> CDN[🌐 Cloudflare CDN]
-    Deploy[🐳 Docker] --> API
-    CI[⚙️ GitHub Actions] --> Deploy
-
-    style Client fill:#0F172A,stroke:#06B6D4,color:#E2E8F0
-    style API fill:#0F172A,stroke:#6366F1,color:#E2E8F0
-    style DB fill:#0F172A,stroke:#0EA5E9,color:#E2E8F0
-    style Cache fill:#0F172A,stroke:#A855F7,color:#E2E8F0
-    style AI fill:#0F172A,stroke:#06B6D4,color:#E2E8F0
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🕸️ Skills Radar
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','primaryBorderColor':'#06B6D4','lineColor':'#6366F1'}}}%%
-radar-beta
-    title Skills Overview
-    axis fe["Frontend"], be["Backend"], game["Game Dev"], ai["AI"], design["UI/UX"], cloud["Cloud/DevOps"]
-    curve me["AA Studios"]{78, 72, 65, 60, 75, 55}
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🎐 Fun Facts
-
 <div align="center">
 
-| | |
-|:--|:--|
-| 🎬 **Anime** | Always has a series running in the background |
-| 🎧 **Music** | Lo-fi, synthwave & anime OSTs on repeat |
-| 🎮 **Gaming** | Loves RPGs and indie titles for design inspiration |
-| 🗣️ **Languages** | Learning Japanese 🇯🇵 alongside code |
-| ☕ **Coffee** | Fuel for every build session |
-| 🌙 **Night Coding** | Most productive after midnight |
-| 🖥️ **Desk Setup** | Minimal, clean, distraction-free |
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
 
 </div>
 
-<br/>
+## 🗾 日本語の旅 &nbsp;·&nbsp; My Japanese Journey
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
+I'm learning Japanese and enjoy exploring it beyond vocabulary: its writing systems, expressions, media, and everyday culture. It's a long journey, one step at a time. 🍵
 
-<br/>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-## 🎵 Music While Coding
+### あ
+**ひらがな**<br/>
+Hiragana
+
+The core phonetic script, the foundation of everything.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ア
+**カタカナ**<br/>
+Katakana
+
+For loanwords, names, and sound effects in anime.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 漢
+**漢字**<br/>
+Kanji
+
+Characters with meaning, learned slowly and steadily.
+
+</td>
+</tr>
+</table>
+
+### 💬 好きなフレーズ &nbsp;·&nbsp; Phrases I Like
 
 <div align="center">
 
-- 🌌 Lo-fi Hip Hop Radio
-- 🎹 Synthwave / Retrowave
-- 🎻 Anime OST Piano Covers
-- 🌃 City Pop Classics
-- 🎸 Ambient Instrumental
+| 日本語 | Romaji | Meaning |
+| :-: | :-: | :-: |
+| はじめまして | Hajimemashite | Nice to meet you |
+| ありがとう | Arigatou | Thank you |
+| がんばろう | Ganbarou | Let's do our best |
+| いってきます | Ittekimasu | I'm heading out (and I'll be back) |
+| またね | Mata ne | See you later |
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 🧳 Workspace
-
 <div align="center">
 
-| Category | Setup |
-|:--|:--|
-| 💻 **Laptop** | Custom-built dev machine |
-| 🧠 **IDE** | VS Code / JetBrains Rider |
-| 🌿 **Version Control** | Git + GitHub |
-| 🌐 **Browser** | Arc Browser |
-| ⌨️ **Terminal** | Windows Terminal + Oh My Posh |
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
 
 </div>
 
-<br/>
+## 🎤 アニメ & 音楽 &nbsp;·&nbsp; Anime, Music & Vocaloid
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<br/>
+### 🎞️ アニメ
+**Anime**
 
-## 🔬 Currently Exploring
+The visual language of anime, from color and framing to character design and motion, shapes how I think about interfaces and creative work.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎶 ボカロ
+**Vocaloid**
+
+Vocaloid is a huge source of inspiration for me, and I love building visual projects that move along with the music.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎧 J-POP
+**J-Pop & Anime Songs**
+
+Music keeps me going while I code, model, and edit. It's also how I pick up new Japanese words.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Unity_ECS-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Procedural_Generation-0EA5E9?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Computer_Vision-A855F7?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Cloud_Architecture-06B6D4?style=for-the-badge&labelColor=0F172A"/>
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
 
 </div>
 
-<br/>
+## 📜 クエストログ &nbsp;·&nbsp; Quest Log
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🔥 進行中 · In Progress
 
-## 🌱 Open Source
+- [ ] Keep studying Japanese (hiragana → katakana → kanji)
+- [ ] Build more projects with Unity and the languages I've learned
+- [ ] Improve my 3D, MMD, and VRM workflows
+- [ ] Polish Zetalyn's creative projects
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 目標 · Goals
+
+- [ ] Understand how larger software systems are structured
+- [ ] Create a full anime-inspired video from start to finish
+- [ ] Combine code and 3D into one interactive project
+- [ ] Keep learning, keep refining, keep sharing
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-🎯 **Contribution Goals**
-
-- Contribute to 10+ open-source repositories
-- Maintain at least one public tool or library
-- Help improve documentation for tools I use daily
-- Mentor beginners through issues & PRs
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## 📬 Contact
+## 📊 統計 &nbsp;·&nbsp; GitHub
 
 <div align="center">
 
-<a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A"/></a>
+<img src="https://img.shields.io/github/followers/quincy-dev?style=for-the-badge&logo=github&logoColor=F5A9C8&label=FOLLOWERS&labelColor=0B1020&color=2A2160" alt="Followers" />
+<img src="https://img.shields.io/badge/📍_Indonesia-F5A9C8?style=for-the-badge&labelColor=2A2160&color=F5A9C8&logoColor=0B1020" alt="Location" />
+<img src="https://img.shields.io/badge/🌸_Always_Learning-8F5FA8?style=for-the-badge&labelColor=0B1020" alt="Always learning" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
-
-<br/>
-
-## ☕ Support
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/username">
-  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0F172A"/>
+<a href="https://github.com/quincy-dev">
+  <img src="https://ghchart.rshah.org/F5A9C8/quincy-dev" width="92%" alt="Contribution chart" />
 </a>
 
-*If my work inspired you, a coffee keeps the night sessions going.*
+<br/>
+
+<sub>Stats are built from simple, stable badges so nothing breaks from API rate limits.</sub>
 
 </div>
 
-<br/>
+<!--
+  OPSIONAL · Animasi ular (snake) dari kontribusi.
+  1) Pastikan nama repo profil kamu persis: quincy-dev
+  2) Taruh file .github/workflows/snake.yml (sudah disediakan), lalu jalankan workflow sekali di tab Actions.
+  3) Setelah branch "output" terbentuk, hapus tanda komentar ini:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=3&width=100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quincy-dev/quincy-dev/output/github-snake.svg" width="95%" alt="Contribution snake" />
+</div>
+-->
 
 <br/>
 
 <div align="center">
 
-## 💬 Quote
-
-> *"The future belongs to those who build it — one commit at a time."*
+`⛩️ ━━━━━━━━━ 🌸 ━━━━━━━━━ ⛩️`
 
 </div>
 
-<br/>
+## 💌 連絡先 &nbsp;·&nbsp; Find Me
 
 <div align="center">
 
-### ✨ Thank you for visiting my profile ✨
+<a href="https://github.com/quincy-dev"><img src="https://img.shields.io/badge/GitHub-quincy--dev-0B1020?style=for-the-badge&logo=github&logoColor=F5A9C8&labelColor=0B1020&color=2A2160" alt="GitHub" /></a>
+<a href="https://zetalyn.my.id"><img src="https://img.shields.io/badge/Zetalyn-Creative_Space-F5A9C8?style=for-the-badge&logo=googlechrome&logoColor=0B1020&labelColor=2A2160" alt="Zetalyn" /></a>
 
-*Dream. Build. Improve.*
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=180&section=footer&animation=fadeIn" width="100%"/>
+🌸 &nbsp;**「小さく始めて、少しずつ良くする。」**&nbsp; 🌸<br/>
+<sub>Start small. Make it better, step by step.</sub>
+
+<br/><br/>
+
+### またね ✿ See you around!
+
+<sub>Thanks for stopping by. Build with intention. Create with curiosity.</sub>
+
+<br/>
+
+`(｡•̀ᴗ-)✧ がんばろう！`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:2A2160,75:8F5FA8,100:F5A9C8&height=150&section=footer" width="100%" alt="" />
 
 </div>
