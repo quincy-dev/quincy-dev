@@ -378,11 +378,11 @@ Music keeps me going while I code, model, and edit. It's also how I pick up new 
   1) Pastikan nama repo profil kamu persis: quincy-dev
   2) Taruh file .github/workflows/snake.yml (sudah disediakan), lalu jalankan workflow sekali di tab Actions.
   3) Setelah branch "output" terbentuk, hapus tanda komentar ini:
-
+-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/quincy-dev/quincy-dev/output/github-snake.svg" width="95%" alt="Contribution snake" />
 </div>
--->
+
 
 <br/>
 
